@@ -16,7 +16,7 @@ npm install
 ```
 
 ## Test the API
-Download this file [api-test](https://github.com/dicodingacademy/a261-backend-pemula-labs/raw/099-shared-files/BookshelfAPITestCollectionAndEnvironment.zip), extract the file and import to the both json file to postman. then active the environments and run your collections.
+Download this file [api-test](https://github.com/dicodingacademy/a261-backend-pemula-labs/raw/099-shared-files/BookshelfAPITestCollectionAndEnvironment.zip), extract the file and import the both json file to postman. then active the environments and run your collections.
 
 ## Contributing
 Pull request are welcome !.
